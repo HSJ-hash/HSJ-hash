@@ -1,10 +1,5 @@
-### Hi there 👋
+### Hi there 💟
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://www.google.com/search?sxsrf=APwXEddgiiDhm43rsmI2fQ44r749nBhAiw:1688038299669&q=github+images&tbm=isch&sa=X&ved=2ahUKEwiX6t_ZsOj_AhVbVmwGHfCcBswQ0pQJegQIDBAB&biw=1536&bih=722&dpr=1.25#imgrc=fr8QcbvyYGy0UM&imgdii=5xzmyA1f8SH8qM)">
- <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://www.google.com/search?sxsrf=APwXEddgiiDhm43rsmI2fQ44r749nBhAiw:1688038299669&q=github+images&tbm=isch&sa=X&ved=2ahUKEwiX6t_ZsOj_AhVbVmwGHfCcBswQ0pQJegQIDBAB&biw=1536&bih=722&dpr=1.25#imgrc=fr8QcbvyYGy0UM&imgdii=5xzmyA1f8SH8qM)">
- <img alt="YOUR-ALT-TEXT" src="[YOUR-DEFAULT-IMAGE](https://www.google.com/search?sxsrf=APwXEddgiiDhm43rsmI2fQ44r749nBhAiw:1688038299669&q=github+images&tbm=isch&sa=X&ved=2ahUKEwiX6t_ZsOj_AhVbVmwGHfCcBswQ0pQJegQIDBAB&biw=1536&bih=722&dpr=1.25#imgrc=fr8QcbvyYGy0UM&imgdii=5xzmyA1f8SH8qM)">
-</picture>
 
 <!--
 **HSJ-hash/HSJ-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
