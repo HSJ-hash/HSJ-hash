@@ -1,10 +1,12 @@
 
 ![logo](https://github.com/HSJ-hash/HSJ-hash/blob/main/github-header-image%20(1).png)
 
-<h3 align="center"> The art of seeing the world through an eye of a developer 💜</h3>
+
 <p align="left"> Hi there 👋
 
-I’m Heshani, a software engineering undergraduate, quality assurance enthusiast, and self-learned web developer specializing in front-end development. 
+I’m Heshani Samadhi, a 3rd-year software engineering undergraduate at Cardiff Metropolitan University.
+
+I am a quality assurance enthusiast, and a self-learned web developer specializing in front-end development. 
 A fun fact about me would be I'm an extrovert, dancer, and a qualified tutor who loves to explore and learn, and is willing to help anyone with kindness  </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hsj-hash&label=Profile%20views&color=0e75b6&style=flat" alt="hsj-hash" /> </p>
