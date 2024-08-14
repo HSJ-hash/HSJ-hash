@@ -4,7 +4,7 @@
 
 <p align="left"> Hi there 👋
 
-I’m Heshani Samadhi, a 3rd-year software engineering undergraduate at Cardiff Metropolitan University.
+I’m Heshani Samadhi, a Software engineering Graduate at Cardiff Metropolitan University.
 
 I am a  Technical project management enthusiast, and a self-learned web developer specializing in front-end development. 
 A fun fact about me is that I'm an extrovert, a dancer, and a qualified tutor who loves to explore and learn.</p>
