@@ -6,8 +6,8 @@
 
 I’m Heshani Samadhi, a 3rd-year software engineering undergraduate at Cardiff Metropolitan University.
 
-I am a quality assurance enthusiast, and a self-learned web developer specializing in front-end development. 
-A fun fact about me would be I'm an extrovert, dancer, and a qualified tutor who loves to explore and learn.</p>
+I am a  Technical project management enthusiast, and a self-learned web developer specializing in front-end development. 
+A fun fact about me is that I'm an extrovert, a dancer, and a qualified tutor who loves to explore and learn.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hsj-hash&label=Profile%20views&color=0e75b6&style=flat" alt="hsj-hash" /> </p>
 
